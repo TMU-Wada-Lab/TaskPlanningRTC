@@ -1,0 +1,12 @@
+{
+  "total_time_sec": 90,
+  "time_over_remaining_sec": 60,
+  "shelf_order": [1, 2, 3, 4],
+  "products": [
+    {"id": 1, "name": "おにぎり", "shelf_id": 1},
+    {"id": 2, "name": "弁当", "shelf_id": 2},
+    {"id": 3, "name": "サンドイッチ", "shelf_id": 2},
+    {"id": 4, "name": "ポテチ", "shelf_id": 3},
+    {"id": 5, "name": "ラムネ", "shelf_id": 4}
+  ]
+}

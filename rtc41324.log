@@ -1,0 +1,20 @@
+2026-10-28 14:44:11,247 file.manager INFO 2.0.2
+2026-10-28 14:44:11,248 file.manager INFO Copyright (C) 2003-2024, Noriaki Ando and OpenRTM development team,
+2026-10-28 14:44:11,248 file.manager INFO   Intelligent Systems Research Institute, AIST,
+2026-10-28 14:44:11,248 file.manager INFO Copyright (C) 2024, Noriaki Ando and OpenRTM development team,
+2026-10-28 14:44:11,248 file.manager INFO   Industrial Cyber-Physical Research Center, AIST,
+2026-10-28 14:44:11,248 file.manager INFO   All right reserved.
+2026-10-28 14:44:11,248 file.manager INFO Manager starting.
+2026-10-28 14:44:11,249 file.manager INFO Starting local logging.
+2026-10-28 14:44:15,477 file.manager.namingmanager INFO NameServer connection failed: corba/localhost
+2026-10-28 14:44:19,626 file.ManagerServant INFO Master manager not found
+2026-10-28 14:44:19,629 file.LocalServiceAdmin INFO All the local services are enabled.
+2026-10-28 14:44:19,635 file.manager INFO Component type conf file: TaskPlanningRTC.conf loaded.
+2026-10-28 14:44:19,637 file.ec_base INFO setRate(1000000.000000) done
+2026-10-28 14:44:19,637 file.ec_base INFO setRate(1000.000000) done
+2026-10-28 14:44:19,638 file.rtobject INFO 1 execution context was created.
+2026-10-28 14:44:19,644 file.rtobject INFO Initial active configuration set is default.
+2026-10-28 14:44:33,768 file.manager.namingmanager INFO NameServer connection failed: corba/localhost
+2026-10-28 14:44:37,876 file.ManagerServant INFO Master manager not found
+2026-10-28 14:44:43,838 file.manager.namingmanager INFO NameServer connection failed: corba/localhost
+2026-10-28 14:44:47,952 file.ManagerServant INFO Master manager not found
